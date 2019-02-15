@@ -1,0 +1,8 @@
+main index: 0
+method area: 40 bytes
+00 03 00 00 10 58 15 01 15 02 b6 00 01 ac 00 03
+00 01 15 01 15 02 64 9b 00 0a 15 02 36 03 a7 00
+07 15 01 36 03 15 03 ac 
+constant pool: 2 words
+00000000
+0000000e
